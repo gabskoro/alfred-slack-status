@@ -36,4 +36,4 @@ Of course, just right click in the workflow box and a new "Input keyword" and "A
 
 ## Licence
 
-[MIT Licence](https://zenorocha.mit-license.org/) © Zeno Rocha
+[MIT Licence](https://gabskoro.mit-license.org/) © Gabrijel Škoro
